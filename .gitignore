@@ -1,0 +1,32 @@
+# Cappuccino #
+######################
+Frameworks/
+
+# xcodecapp-cocoa #
+######################
+src/main/webapp/.xCodeSupport/
+
+# Scala #
+######################
+*.class
+*.log
+
+# lift - database #
+######################
+database/
+
+# sbt specific #
+######################
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
